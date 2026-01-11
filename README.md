@@ -28,7 +28,7 @@ The analysis is built using the following Python libraries:
 
 ## 📊 Summary of Results
 The analysis yielded several key takeaways regarding business formation:
-* **Model Accuracy:** The linear regression models struggle ($R^2 \approx 0.00$) to predict making the model perform very poorly.
+* **Model Accuracy:** The linear regression models struggle (achieved an R² Score: 0.012 and 0.004 for National and Regional prediction respectively) to predict making the model perform very poorly.
 * **Type of Business Application**: Corporation Business formations are the most stable business type.
 * **Growth Trends:** (Washington DC state showed the highest average YoY growth 28% in Corporate Business applications over the years.)
 * **Pre-COVID (before 2020)**: -0.13% growth -> Business formation was essentially flat/declining slightly.
