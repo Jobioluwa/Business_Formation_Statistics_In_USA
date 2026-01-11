@@ -27,7 +27,7 @@ The analysis is built using the following Python libraries:
 
  
  📝 Read the Full Story on Medium I have published a comprehensive deep-dive into these findings:
- 👉 The COVID Catalyst: How the Pandemic Transformed American Entrepreneurship
+ 👉 The COVID Catalyst: How the Pandemic Transformed American Entrepreneurship (https://medium.com/@jobioluwa/ac4f4288510e)
  
  📊 **Key Findings 1.** 
  1. The Failure of Linear Prediction 
