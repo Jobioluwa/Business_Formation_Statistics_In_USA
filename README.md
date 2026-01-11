@@ -6,9 +6,9 @@ Analyze the impact of economic events (COVID-19) on new business formation.
 Predict future business formation trends across U.S. using data from the **US Census Bureau's Business Formation Statistics (BFS)**. 
 
 By utilizing time-series forecasting, this project aims to provide:
-* **Predictive Insights:** Anticipating surges in business intent before actual economic formation occurs.
-* **Seasonal Analysis:** Identifying which months consistently see the highest entrepreneurial activity.
-* **Economic Indicators:** Distinguishing between "High-Propensity" applications (likely to hire employees) and general business filings.
+* Identify which state have the highest business growth
+* Analyze the impact of economic events (COVID-19) on new business formation. Trends before, during, and after the COVID-19 pandemic.
+* State variations in business formation.
 
 ## 🛠️ Libraries Used
 The analysis is built using the following Python libraries:
